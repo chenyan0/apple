@@ -161,6 +161,7 @@ h1{
 }
 .banner{
     position: relative;
+    overflow:hidden;
 }
 .cir{
     width: 10px;
